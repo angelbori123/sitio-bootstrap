@@ -1,0 +1,12 @@
+body { font-family: Georgia, serif; background: #f7f3ea; color: #1e3a5f; }
+.navbar { background: #1e3a5f !important; }
+.hero {
+  min-height: 320px;
+  background: #1e3a5f url("imagenes/hero.svg") center/cover no-repeat;
+  color: #fff;
+  display: flex;
+  align-items: flex-end;
+}
+.marca { letter-spacing: 0.12em; font-family: Arial, sans-serif; }
+.btn-cafe { background: #e8b86d; color: #1e3a5f; font-weight: 700; border: 0; }
+footer { background: #1e3a5f; color: #f7f3ea; }
